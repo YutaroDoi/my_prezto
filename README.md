@@ -1,5 +1,5 @@
 # zpreztoカスタマイズ
-  zprezto使用時はdotfilesはここで一括管理する。
+  zprezto使用時はzsh設定ファイル系はここで一括管理する。
   
   ## How To Setup
   
