@@ -2,7 +2,9 @@
   zprezto使用時はzsh設定ファイル系はここで一括管理する。
   
   ## How To Setup
-  
+   1. pureをinstall (npmなどで）
+   2. pecoをinstall(brewでいけるはず)
+   3. 下のスクリプトを実行 
   ```
   cd ~
   git clone --recursive https://github.com/UTDoi/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
