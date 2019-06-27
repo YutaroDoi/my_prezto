@@ -18,8 +18,8 @@ fi
 #
 
 export EDITOR='vim'
-export VISUAL='vim'
-export PAGER='vim'
+export VISUAL='less'
+export PAGER='less'
 
 #
 # Language
